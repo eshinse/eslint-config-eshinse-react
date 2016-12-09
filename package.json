@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-eshinse-react",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "eshinse ESLint config for React.",
   "homepage": "https://github.com/eshinse/eslint-config-eshinse-react",
   "author": "Kenneth Sundqvist <kenneth@eshin.se> (https://eshin.se)>",
