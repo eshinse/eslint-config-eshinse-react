@@ -30,7 +30,7 @@
     "react"
   ],
   "peerDependencies": {
-    "eslint-plugin-jsx-a11y": "^3.0.0",
+    "eslint-plugin-jsx-a11y": "^5.0.2",
     "eslint-plugin-react": "^6.8.0"
   },
   "devDependencies": {
