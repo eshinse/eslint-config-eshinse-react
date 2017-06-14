@@ -31,7 +31,7 @@
   ],
   "peerDependencies": {
     "eslint-plugin-jsx-a11y": "^3.0.0",
-    "eslint-plugin-react": "^6.8.0"
+    "eslint-plugin-react": "^7.1.0"
   },
   "devDependencies": {
     "conventional-github-releaser": "^1.1.3",
